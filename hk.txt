@@ -7,11 +7,11 @@
 22.216345,113.877322,#7	鳳凰徑 標距柱 L80 
 22.222873,113.880113,#8	鳳凰徑 標距柱 L083 
 22.221528,113.886884,#9	大浪灣村洪侯古廟 Hung Hau Temple 
-22.222732,113.895192,#10 石壁洪聖廟土地 Hung Shing To Tei Temple 
+22.222732,113.895192,#10 石壁碼頭 
 22.226748,113.904253,#11 石壁郊遊徑嶼南道入口 Shek Pik Country Trail South Entrance 
 22.226041,113.898040,#12 石壁水塘紀念碑 Shek Pik Reservoir Memorial 
 22.228959,113.890237,#13 石壁營地 
-22.247714,113.889754,#14 Keung Shan, Lantau Island, Hon 
+22.231899,113.881271,#14 Keung Shan Trigonometrical Station  
 22.230600,113.874488,#15 羌山郊遊徑 
 22.230831,113.867599,#16 Man Cheung Po Camp Site Entrance 
 22.236151,113.870629,#17 悟園九曲橋湖心亭
