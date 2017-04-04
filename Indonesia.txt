@@ -1,0 +1,15 @@
+-7.861607,112.525926,mushola abdul rokhim #1
+-7.860114,112.527482,Kendi Metu Banyu Batusuki #2
+-7.852722,112.527278,Masjid Al Muttaqin #3
+-7.850554,112.532836,Pendopo Desa #4
+-7.849475,112.533157,Masjid Nurul Huda #5
+-7.846924,112.527670,Masjid Baiturrohman #6
+-7.842561,112.523485,masjid kubah ijo #7
+-7.842620,112.528040,Masjid Jami Punten #8
+-7.843916,112.532632,masjid mblusuk kubah ijo #9
+-7.839819,112.533930,Masjid Jannah Quro #10
+-7.836179,112.529300,Masjid Bulukerto #11
+-7.826145,112.529547,Bee Statue #12
+-7.824397,112.528249,Gapura Biru #13
+-7.817169,112.524961,Sepeda Udara Selecta #14
+-7.816473,112.524338,Iguana Statue #15
