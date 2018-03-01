@@ -1,6 +1,8 @@
 Jio Sponsored Pokemon Go Gyms’ Coordinates
-Jammu,32.709193,74.892738
-Chandigarh,30.705298,76.800209
+Jammu
+32.709193,74.892738
+Chandigarh
+30.705298,76.800209
 
 30.695106,76.849977
 
