@@ -22,3 +22,4 @@
 -7.85720,112.53754,#15 Blue Mosque
 -7.83972,112.53395,#蓝低保 Masjid Jannah Quro
 -7.84385,112.53262,#黄低保 masjid mblusuk kubah ijo
+-7.835948,112.520124,#新点  Masjid Kubah Ijo
