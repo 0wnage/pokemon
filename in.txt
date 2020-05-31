@@ -8,18 +8,19 @@
 -7.82805,112.52352,#1 Masjid Payan
 -7.83102,112.52446,#2 Masjid Nurul Iman
 -7.83306,112.52545,#3 Garuda Pancasila Statue
--7.83410,112.52490,#4 Uncontested
--7.83554,112.52783,#5 
+-7.83410,112.52490,#4 taman patung pkk kb
+-7.83554,112.52783,#5 Musholla Baitul Jannah
 -7.83632,112.52932,#6 Masjid Bulukerto
--7.84192,112.52751,#7 
+-7.84192,112.52751,#7 Bengong Statue
 -7.84265,112.52804,#8 Masjid Jami Punten
--7.84444,112.52806,#9 
+-7.84444,112.52806,#9 Masjid AI Hikmah
 -7.84694,112.52766,#10 Masjid Baiturrohman
--7.84824,112.52817,#11 
+-7.84824,112.52817,#11 Masjid SMP Muhamaddiyah
 -7.84950,112.53316,#12 Masjid Nurul Huda
 -7.85057,112.53285,#13 Pendopo Desa
 -7.85655,112.53612,#14 Masjid Kubah Hijau
 -7.85720,112.53754,#15 Blue Mosque
+-7.85904,112.53899,#16 10 Program PKK Bumiaji
 -7.83972,112.53395,#蓝低保 Masjid Jannah Quro
 -7.84385,112.53262,#黄低保 masjid mblusuk kubah ijo
--7.835948,112.520124,#新点  Masjid Kubah Ijo
+-7.83595,112.52012,#新点4-1  Masjid Kubah Ijo
