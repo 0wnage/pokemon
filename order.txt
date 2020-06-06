@@ -1,0 +1,69 @@
+grass All Grass Pokemon 
+草 所有草系寶可夢
+@grass All Pokemon /w Grass Moves
+@草 所有技能為草系的寶可夢
+@1grass All Pokemon /w Grass Fast Move
+@1草 所有小招為草系的寶可夢
+@2grass All Pokemon /w Grass Charged Move
+@2草 所有大招為草系的寶可夢
+@3grass All Pokemon /w Grass 2nd Charged Move
+@3草 所有第二個大招為草系的寶可夢
+@bite All Pokemon /w Bite 
+@咬住 所有會咬住的寶可夢
+@1bite All Pokemon /w Bite Fast Move
+@1咬住 所有小招為咬住的寶可夢
+@2dynamic punch All Pokemon /w Dynamic Punch Charged Move
+@2爆裂拳 所有大招為爆裂拳的寶可夢
+@3dynamic punch All Pokemon /w Dynamic Punch 2nd Charged Move
+@3爆裂拳 所有第二個大招為爆裂拳的寶可夢
+@weather All Pokemon /w Weather Boosted Moves
+@天氣 所有技能存在天氣加成的寶可夢
+!@move All Pokemon /w a 2nd Charged Move
+繁體中文指令不明 所有解鎖了第二個大招的寶可夢
+male All Male Pokemon
+雄性 所有公的寶可夢
+female All Female Pokemon
+雌性 所有母的寶可夢
+genderless All Genderless Pokemon
+中文指令不明 所有無性別寶可夢
+hatched All Hatched Pokemon
+孵化 所有孵化寶可夢
+eggsonly All Baby Pokemon
+中文指令不明 所有baby寶可夢
+legendary All Legendary Pokemon
+傳說的寶可夢 所有傳說寶可夢
+mythical All Mythical Pokemon
+幻 所有幻之寶可夢
+shiny All Shiny Pokemon
+異色 所有閃光寶可夢
+alola All Alolan Pokemon
+阿羅拉 所有阿羅拉型態寶可夢
+traded All Traded Pokemon
+交換 所有交換來的寶可夢
+lucky All Lucky Pokemon
+亮晶晶 所有亮晶晶寶可夢
+shadow All Shadow Pokemon
+暗影 所有暗影寶可夢
+purified All Purified Pokemon
+淨化 所有淨化寶可夢
+costume All Costume Pokemon
+中文指令不明 所有穿衣服戴帽子的寶可夢
+evolve All Pokemon that can be Evolved
+進化 所有能進化的寶可夢
+item All Pokemon that can be Evolved /w an Item
+道具 所有能用道具進化的寶可夢
+defender All Pokemon in a Gym
+中文不明 所有放在道館的寶可夢
+0*All Pokemon /w IV 48.9% and below
+0* 所有48.9%iv以下寶可夢
+1*All Pokemon /w IV 51.1 – 64.4%
+2*All Pokemon /w IV 66.7 – 80.0%
+3*All Pokemon /w IV 82.2 – 97.8%
+4*All Pokemon /w IV 100%
+4* 所有100iv寶可夢
+&“and” combine multiple search strings
+使用&或and為全部滿足條件的結果
+, ; : “or” combine multiple search strings
+使用, ; : “or” 為滿足一項條件的結果
+! “not” combine multiple search strings
+!或者not为不满足條件的結果
