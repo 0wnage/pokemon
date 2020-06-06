@@ -1,3 +1,28 @@
+Pokemon Go Search/Filtering
+
+Pikachu: All Pikachu
+皮卡丘：所有的皮卡丘
++Pikachu: All Pikachu + Evolutions
++皮卡丘：所有的皮卡丘家族
+“nickname” : All Pokemon "Nickname"
+繁體中文指令不明 所有暱稱寶可夢
+1 Pokedex # 1
+1 圖鑑編號為1的寶可夢
+1-10 Pokedex #'s 1-10
+1-10 圖鑑編號為1-10的寶可夢
+1- Pokedex #'s 1 >
+1- 圖鑑編號大於1的所有寶可夢
+-10 Pokedex #'s 10 <
+-10 圖鑑編號小於10的所有寶可夢
+cp100 All Pokemon /w CP 100
+cp100 所有cp為100的寶可夢
+cp10-100 All Pokemon /w CP 10-100
+cp100- All Pokemon CP 100 >
+cp-100 All Pokemon CP 100 <
+hp100 All Pokemon HP 100
+hp10-100 All Pokemon HP 10-100
+hp100- All Pokemon HP 100 >
+hp-100 All Pokemon HP 100 <
 grass All Grass Pokemon 
 草 所有草系寶可夢
 @grass All Pokemon /w Grass Moves
